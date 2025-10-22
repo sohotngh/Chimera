@@ -1,6 +1,6 @@
 # Project Chimera
 
-**Thrust Alignment:** Titan + Skunkworks + Compass
+**Thrust Alignment:** Titan + Skunksworks + Compass
 **Tagline:** Three minds fused into one—a new species of intelligence, born without training.
 
 ## Mission
@@ -9,8 +9,8 @@ To prove that insight beats resources. We are creating a meta-model by surgicall
 
 ## Status
 
-**Phase 1 (30-Day Spike):** Active.
-**Current Task:** [Week 1] Baseline merge implementation and parent model benchmarking.
+**Phase 1 (Output-Fusion):** COMPLETE.
+**Milestone:** `v0.2-output-fusion`
+**Result:** Statistically significant +13 point accuracy gain (Chimera 85% vs. Best-Parent 72%) on benchmark tasks. LSV-v0.2 (Weighted Voting) validated.
 
-This repository is the "War Room" for our two-person insurgency.
-Maximum Ambition, Minimum Footprint.
+**Phase 2 (Parameter-Space Fusion):** Pending activation.
